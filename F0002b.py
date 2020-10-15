@@ -9,4 +9,4 @@ kutya = cica
 print('kutya')
 print(kutya)
 
-#egér
+#tyúk
